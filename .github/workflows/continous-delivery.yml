@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-    - main
+    - R4Rain/dummy-web
 
 jobs:
   build-and-deploy:
